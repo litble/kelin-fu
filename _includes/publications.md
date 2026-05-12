@@ -30,7 +30,7 @@
       {% if link.dataset %} 
       <a href="{{ link.dataset }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
       {% endif %}
-      {% if link.dataset %} 
+      {% if link.model %} 
       <a href="{{ link.model }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
       {% endif %}
       {% if link.page %} 
