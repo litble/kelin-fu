@@ -1,22 +1,29 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Multi-Docker-Eval: A `Shovel of the Gold Rush' Benchmark on Automatic Environment Building for Software Engineering"
+    authors: <strong>K Fu</strong>, T Liu, Z Shang, Y Ma, J Liu, J Yang, K Bian
+    conference_short: ACL
+    conference: ACL Findings of the Association for Computational Linguistics <strong>(ACL)</strong>,, 2026.
+    pdf: https://arxiv.org/pdf/2512.06915
+    code: https://github.com/Z2sJ4t/Multi-Docker-Eval
+    dataset: https://huggingface.co/datasets/litble/Multi-Docker-Eval
+    notes: Findings
+    #image: #
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Kimi-Dev: Agentless Training as Skill Prior for SWE-agents"
+    authors: Z Yang, S Wang, <strong>K Fu</strong>, W He, W Xiong, Y Liu, Y Miao, B Gao, et al.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2509.23045
+    code: https://github.com/MoonshotAI/Kimi-Dev
+    model: https://huggingface.co/moonshotai/Kimi-Dev-72B
+    notes: Poster
+    #image: #
+
+  - title: "PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and LLM prompting"
+    authors: <strong>K Fu</strong>, Y Tian, K Bian
+    conference_short: CyberSciTech
+    conference: IEEE IEEE Cyber Science and Technology Congress <strong>(CyberSciTech)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2409.09354
+    code: https://github.com/Z2sJ4t/PeriGuru
+    #image: #
