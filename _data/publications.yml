@@ -3,7 +3,7 @@ main:
   - title: "Multi-Docker-Eval: A `Shovel of the Gold Rush' Benchmark on Automatic Environment Building for Software Engineering"
     authors: <strong>K Fu</strong>, T Liu, Z Shang, Y Ma, J Liu, J Yang, K Bian
     conference_short: ACL
-    conference: ACL Findings of the Association for Computational Linguistics <strong>(ACL)</strong>,, 2026.
+    conference: ACL Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2512.06915
     code: https://github.com/Z2sJ4t/Multi-Docker-Eval
     dataset: https://huggingface.co/datasets/litble/Multi-Docker-Eval
