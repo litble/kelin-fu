@@ -18,8 +18,8 @@ I am a second-year Ph.D. Student at the School of Computer Science, Peking Unive
 
 # Research Experience
 
-**Research Intern** (Feb 2025 – May 2026)  
-Moonshot AI — LLM for Code Team
+**Research Intern** (2025.02 – 2026.05)  
+Moonshot AI — LLM for Code
 
 # Education
 
