@@ -23,7 +23,7 @@ main:
   - title: "PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and LLM prompting"
     authors: <strong>K Fu</strong>, Y Tian, K Bian
     conference_short: CyberSciTech
-    conference: IEEE IEEE Cyber Science and Technology Congress <strong>(CyberSciTech)</strong>, 2025.
+    conference: IEEE Cyber Science and Technology Congress <strong>(CyberSciTech)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2409.09354
     code: https://github.com/Z2sJ4t/PeriGuru
     #image: #
